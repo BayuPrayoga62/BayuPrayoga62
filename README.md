@@ -25,7 +25,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### 👨_technologist: About Me :
 
 
 
