@@ -27,7 +27,7 @@
 
 ### 👨: About Me :
 I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Indonesia.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 💻 I am a student who always wants to learn new things, I strive to be able to master useful programming languages
 
 - :seedling: Exploring Technical Content Writing.
 
