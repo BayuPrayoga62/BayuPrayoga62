@@ -33,7 +33,7 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :zap: In my spare time, sometimes I use it for coding
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bayu-prayoga-b000a121a/)
 
 
 
