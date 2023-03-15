@@ -31,7 +31,7 @@ I am a Junior Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🎮 My hobby is playing games, and I aspire to be able to make a game.
 
-- :zap: In my spare time, sometimes I use it for coding
+- :zap: In my spare time, sometimes I use it for coding.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bayu-prayoga-b000a121a/)
 
