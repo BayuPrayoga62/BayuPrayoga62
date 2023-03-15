@@ -27,9 +27,9 @@
 
 ### 👨: About Me :
 I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Indonesia.
-- 💻 I am a student who always wants to learn new things, I strive to be able to master useful programming languages
+- 💻 I am a student who always wants to learn new things, I strive to be able to master useful programming languages.
 
-- :seedling: Exploring Technical Content Writing.
+- 🎮 My hobby is playing games, and I aspire to be able to make a game.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
