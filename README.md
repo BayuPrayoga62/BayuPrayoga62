@@ -26,7 +26,7 @@
 ---
 
 ### 👨: About Me :
-I am a Junior Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Indonesia.
+I am a Junior Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Indonesia.
 - 💻 I am a student who always wants to learn new things, I strive to be able to master useful programming languages.
 
 - 🎮 My hobby is playing games, and I aspire to be able to make a game.
